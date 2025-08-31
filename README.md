@@ -20,13 +20,15 @@ A personalized AI-powered platform to prepare for technical interviews by genera
 ## 👁️ Preview
 
 ### > Landing Page
-![HomePage](Home.png)
+<img width="1120" height="700" alt="InterviewPage" src="https://github.com/user-attachments/assets/eaac026e-1be2-4364-9342-d465213b5f7d" />
+
 
 ### > Registration Form
-![Registration](Registration.png)
+<img width="1120" height="700" alt="Registration" src="https://github.com/user-attachments/assets/bc75e770-fc9a-4088-94e0-a0ed3d491724" />
 
 ### > Create Session Form
-![AddSession](AddSession.png)
+<img width="1120" height="700" alt="AddSession" src="https://github.com/user-attachments/assets/fb1672e0-ff16-42ef-8a35-2382b15ecff3" />
+
 
 ### > Dashboard
 ![Dashboard](Dashboard.png)
